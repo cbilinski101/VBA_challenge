@@ -47,4 +47,11 @@ Below are the screenshots illustrating the process:
 This project is for internal use and can be modified as needed.
 
 ## Contact
-For any issues or suggestions, feel free to reach out to the project owner or your team lead.
+For any issues or suggestions, feel free to reach out.
+
+## Acknowledgments
+
+This project was developed with the assistance of the following resources:
+
+- **"U of T" (Turtoring Session - Xpert Learning Assistant - GitLab Activites)** – Provided guidance on code and explanations.
+- **ChatGPT** – Assisted with code, explanations, and README formatting. 
